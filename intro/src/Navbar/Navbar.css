@@ -1,0 +1,12 @@
+.navbar .navbar-expand-sm .navbar-dark{
+    background-color: #242748 !important;
+    color: aliceblue !important;
+}
+
+.navbar-brand{
+    color: #ccc !important;
+}
+
+.nav-link{
+    color: #ccc !important;
+}
